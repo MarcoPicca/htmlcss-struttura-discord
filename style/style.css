@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-bar{
+    background-color: rgb(0, 144, 144);
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav{
+    background-color: gold;
+    height: 40px;
+    width: 50%;
+    
+}
+
+.container-hero{
+    background-color: blue;
+    height: 500px;
+    width: 100%;
+}
